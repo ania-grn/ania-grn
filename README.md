@@ -14,5 +14,5 @@ You can find me on the following social media platforms or send me an email:
 </ul>
 
 <hr>
-- 🔭 I’m currently working on apliaction for a restaurant (backend, school project) <br>
+- 🔭 <b>I’m currently working on:</b> apliaction for a restaurant (backend, school project) <br>
 - 🌱 <b>I’m currently learning:</b> C#, C++, Python<br>
