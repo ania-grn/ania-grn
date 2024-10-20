@@ -9,7 +9,7 @@ You can find me on the following social media platforms or send me an email:
 
 <ul>
   <li><a href="https://www.instagram.com/ania_grn4_xo/" target="_blank"> 📸 Instagram </a></li>
-  <li><a href="mailto: " target="_blank"> 📧 Mail </a></li>
+  <li><a href="mailto: ania.github@wp.pl" target="_blank"> 📧 Mail </a></li>
   <li><a href="https://www.facebook.com/aniagrn4/" target="_blank">📱 Facebook </a></li>
 </ul>
 
