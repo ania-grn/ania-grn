@@ -15,4 +15,4 @@ You can find me on the following social media platforms or send me an email:
 
 <hr>
 - 🔭 I’m currently working on ... <br>
-- 🌱 I’m currently learning C#, C++, Python<br>
+- 🌱 <b>I’m currently learning:</b> C#, C++, Python<br>
